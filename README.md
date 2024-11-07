@@ -1,6 +1,8 @@
 # task-cli
 
-A simple command-line tool to manage tasks with CRUD (Create, Read, Update, Delete) operations.
+A simple command-line tool to manage tasks. Based on the projects from roadmap.sh.
+
+[https://roadmap.sh/projects/task-tracker](https://roadmap.sh/projects/task-tracker)
 
 ## Features
 
